@@ -1,2 +1,2 @@
 # ZAmericanEnglish
-Little projects that relate to the ZAmericanEnglish courses
+Little projects that are related to the ZAmericanEnglish courses
